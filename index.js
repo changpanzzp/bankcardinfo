@@ -199,7 +199,7 @@
 		},
 		{
 			bankName:"中国交通银行",
-			bankCode:"COMM",
+			bankCode:"BCM",
 			patterns:[
 				{
 					reg:/^(622261|622260|622262|621002|621069|621436|621335)\d{13}$/g,
@@ -329,7 +329,7 @@
 		},
 		{
 			bankName:"华夏银行",
-			bankCode:"HXBANK",
+			bankCode:"HXB",
 			patterns:[
 				{
 					reg:/^(622630|622631|622632|622633|999999|621222|623020|623021|623022|623023)\d{10}$/g,
@@ -343,7 +343,7 @@
 		},
 		{
 			bankName:"深发/平安银行",
-			bankCode:"SPABANK",
+			bankCode:"PAB",
 			patterns:[
 				{
 					reg:/^(621626|623058)\d{13}$/g,
@@ -391,7 +391,7 @@
 		},
 		{
 			bankName:"上海银行",
-			bankCode:"SHBANK",
+			bankCode:"BOS",
 			patterns:[
 				{
 					reg:/^(621050|622172|622985|622987|620522|622267|622278|622279|622468|622892|940021)\d{12}$/g,
@@ -435,7 +435,7 @@
 		},
 		{
 			bankName:"广发银行",
-			bankCode:"GDB",
+			bankCode:"CGB",
 			patterns:[
 				{
 					reg:/^(622516|622517|622518|622521|622522|622523|984301|984303|621352|621793|621795|621796|621351|621390|621792|621791)\d{10}$/g,
@@ -461,7 +461,7 @@
 		},
 		{
 			bankName:"渤海银行",
-			bankCode:"BOHAIB",
+			bankCode:"CBHB",
 			patterns:[
 				{
 					reg:/^(621268|622684|622884|621453)\d{10}$/g,
@@ -471,7 +471,7 @@
 		},
 		{
 			bankName:"广州银行",
-			bankCode:"GCB",
+			bankCode:"GZCB",
 			patterns:[
 				{
 					reg:/^(603445|622467|940016|621463)\d{13}$/g,
@@ -481,7 +481,7 @@
 		},
 		{
 			bankName:"金华银行",
-			bankCode:"JHBANK",
+			bankCode:"JHCCB",
 			patterns:[
 				{
 					reg:/^(622449|940051)\d{10}$/g,
@@ -509,7 +509,7 @@
 		},
 		{
 			bankName:"徽商银行",
-			bankCode:"HSBANK",
+			bankCode:"HSB",
 			patterns:[
 				{
 					reg:/^(622877|622879|621775|623203)\d{13}$/g,
@@ -527,7 +527,7 @@
 		},
 		{
 			bankName:"江苏银行",
-			bankCode:"JSBANK",
+			bankCode:"JSB",
 			patterns:[
 				{
 					reg:/^(621076|622173|622131|621579|622876)\d{13}$/g,
@@ -559,7 +559,7 @@
 		},
 		{
 			bankName:"宁波银行",
-			bankCode:"NBBANK",
+			bankCode:"NBCB",
 			patterns:[
 				{
 					reg:/^(621279|622281|622316|940022)\d{10}$/g,
@@ -577,7 +577,7 @@
 		},
 		{
 			bankName:"北京银行",
-			bankCode:"BJBANK",
+			bankCode:"BOB",
 			patterns:[
 				{
 					reg:/^(623111|421317|422161|602969|422160|621030|621420|621468)\d{10}$/g,
@@ -627,7 +627,7 @@
 		},
 		{
 			bankName:"渣打银行",
-			bankCode:"SCB",
+			bankCode:"SCBL",
 			patterns:[
 				{
 					reg:/^(622948|621740|622942|622994)\d{10}$/g,
@@ -641,7 +641,7 @@
 		},
 		{
 			bankName:"花旗银行",
-			bankCode:"CITI",
+			bankCode:"CITIB",
 			patterns:[
 				{
 					reg:/^(621062|621063)\d{10}$/g,
@@ -655,7 +655,7 @@
 		},
 		{
 			bankName:"东亚银行",
-			bankCode:"HKBEA",
+			bankCode:"BEA",
 			patterns:[
 				{
 					reg:/^(622933|622938|623031|622943|621411)\d{13}$/g,
@@ -673,7 +673,7 @@
 		},
 		{
 			bankName:"广东华兴银行",
-			bankCode:"GHB",
+			bankCode:"GDHXCB",
 			patterns:[
 				{
 					reg:/^(621469|621625)\d{13}$/g,
@@ -683,7 +683,7 @@
 		},
 		{
 			bankName:"深圳农村商业银行",
-			bankCode:"SRCB",
+			bankCode:"SZRCB",
 			patterns:[
 				{
 					reg:/^(622128|622129|623035)\d{10}$/g,
@@ -693,7 +693,7 @@
 		},
 		{
 			bankName:"广州农村商业银行股份有限公司",
-			bankCode:"GZRCU",
+			bankCode:"GRCB",
 			patterns:[
 				{
 					reg:/^(909810|940035|621522|622439)\d{12}$/g,
@@ -703,7 +703,7 @@
 		},
 		{
 			bankName:"东莞农村商业银行",
-			bankCode:"DRCBCL",
+			bankCode:"DRCB",
 			patterns:[
 				{
 					reg:/^(622328|940062|623038)\d{13}$/g,
@@ -717,7 +717,7 @@
 		},
 		{
 			bankName:"东莞市商业银行",
-			bankCode:"BOD",
+			bankCode:"DGCB",
 			patterns:[
 				{
 					reg:/^(622333|940050)\d{10}$/g,
@@ -735,7 +735,7 @@
 		},
 		{
 			bankName:"广东省农村信用社联合社",
-			bankCode:"GDRCC",
+			bankCode:"GDNX",
 			patterns:[
 				{
 					reg:/^(622302)\d{10}$/g,
@@ -749,7 +749,7 @@
 		},
 		{
 			bankName:"大新银行",
-			bankCode:"DSB",
+			bankCode:"DSBANK",
 			patterns:[
 				{
 					reg:/^(622297|621277)\d{10}$/g,
@@ -767,7 +767,7 @@
 		},
 		{
 			bankName:"永亨银行",
-			bankCode:"WHB",
+			bankCode:"WHBANK",
 			patterns:[
 				{
 					reg:/^(622871|622958|622963|622957|622861|622932|622862|621298)\d{10}$/g,
@@ -799,7 +799,7 @@
 		},
 		{
 			bankName:"恒丰银行",
-			bankCode:"EGBANK",
+			bankCode:"EGB",
 			patterns:[
 				{
 					reg:/^(623078)\d{13}$/g,
@@ -813,7 +813,7 @@
 		},
 		{
 			bankName:"天津市商业银行",
-			bankCode:"TCCB",
+			bankCode:"TJCB",
 			patterns:[
 				{
 					reg:/^(940015|622331)\d{12}$/g,
@@ -831,7 +831,7 @@
 		},
 		{
 			bankName:"浙商银行",
-			bankCode:"CZBANK",
+			bankCode:"CZB",
 			patterns:[
 				{
 					reg:/^(621019|622309|621019)\d{13}$/g,
@@ -867,7 +867,7 @@
 		},
 		{
 			bankName:"厦门银行",
-			bankCode:"XMBANK",
+			bankCode:"BOXM",
 			patterns:[
 				{
 					reg:/^(622393|940023)\d{10}$/g,
@@ -885,7 +885,7 @@
 		},
 		{
 			bankName:"福建海峡银行",
-			bankCode:"FJHXBC",
+			bankCode:"BOHX",
 			patterns:[
 				{
 					reg:/^(622388)\d{10}$/g,
@@ -903,7 +903,7 @@
 		},
 		{
 			bankName:"吉林银行",
-			bankCode:"JLBANK",
+			bankCode:"BOJL",
 			patterns:[
 				{
 					reg:/^(622865|623131)\d{13}$/g,
@@ -935,7 +935,7 @@
 		},
 		{
 			bankName:"盛京银行",
-			bankCode:"SJBANK",
+			bankCode:"BOSJ",
 			patterns:[
 				{
 					reg:/^(566666)\d{12}$/g,
@@ -957,7 +957,7 @@
 		},	
 		{																			
 			bankName:"大连银行",
-			bankCode:"DLB",
+			bankCode:"BODL",
 			patterns:[
 				{
 					reg:/^(603708)\d{11}$/g,
@@ -975,7 +975,7 @@
 		},	
 		{																							
 			bankName:"河北银行",
-			bankCode:"BHB",
+			bankCode:"HBB",
 			patterns:[
 				{
 					reg:/^(622498|622499|623000|940046)\d{13}$/g,
@@ -989,7 +989,7 @@
 		},
 		{																						
 			bankName:"乌鲁木齐市商业银行",
-			bankCode:"URMQCCB",
+			bankCode:"UCCB",
 			patterns:[
 				{
 					reg:/^(621751|622143|940001|621754)\d{13}$/g,
@@ -1003,7 +1003,7 @@
 		},
 		{																							
 			bankName:"绍兴银行",
-			bankCode:"SXCB",
+			bankCode:"BOSX",
 			patterns:[
 				{
 					reg:/^(622486)\d{10}$/g,
@@ -1021,7 +1021,7 @@
 		},
 		{																							
 			bankName:"成都商业银行",
-			bankCode:"CDCB",
+			bankCode:"BOCD",
 			patterns:[
 				{
 					reg:/^(622152|622154|622996|622997|940027|622153|622135|621482|621532)\d{13}$/g,
@@ -1031,7 +1031,7 @@
 		},
 		{																						
 			bankName:"抚顺银行",
-			bankCode:"FSCB",
+			bankCode:"BOFS",
 			patterns:[
 				{
 					reg:/^(622442)\d{11}$/g,
@@ -1049,7 +1049,7 @@
 		},
 		{																						
 			bankName:"郑州银行",
-			bankCode:"ZZBANK",
+			bankCode:"BOZJ",
 			patterns:[
 				{
 					reg:/^(622421)\d{13}$/g,
@@ -1067,7 +1067,7 @@
 		},
 		{																						
 			bankName:"宁夏银行",
-			bankCode:"NXBANK",
+			bankCode:"BONX",
 			patterns:[
 				{
 					reg:/^(621529|622429|621417|623089|623200)\d{13}$/g,
@@ -1081,7 +1081,7 @@
 		},
 		{																						
 			bankName:"重庆银行",
-			bankCode:"CQBANK",
+			bankCode:"CQCB",
 			patterns:[
 				{
 					reg:/^(9896)\d{12}$/g,
@@ -1095,7 +1095,7 @@
 		},
 		{																						
 			bankName:"哈尔滨银行",
-			bankCode:"HRBANK",
+			bankCode:"BOHRB",
 			patterns:[
 				{
 					reg:/^(621577|622425)\d{13}$/g,
@@ -1113,7 +1113,7 @@
 		},
 		{																							
 			bankName:"兰州银行",
-			bankCode:"LZYH",
+			bankCode:"LZCB",
 			patterns:[
 				{
 					reg:/^(622139|940040|628263)\d{10}$/g,
@@ -1141,7 +1141,7 @@
 		},
 		{																						
 			bankName:"秦皇岛市商业银行",
-			bankCode:"QHDCCB",
+			bankCode:"BOQHD",
 			patterns:[
 				{
 					reg:/^(62249802|94004602)\d{11}$/g,
@@ -1173,7 +1173,7 @@
 		},
 		{																						
 			bankName:"台州银行",
-			bankCode:"TZCB",
+			bankCode:"BOTZ",
 			patterns:[
 				{
 					reg:/^(622427)\d{10}$/g,
@@ -1199,7 +1199,7 @@
 		},
 		{																						
 			bankName:"长沙银行",
-			bankCode:"CSCB",
+			bankCode:"BOCS",
 			patterns:[
 				{
 					reg:/^(694301)\d{12}$/g,
@@ -1261,7 +1261,7 @@
 		},
 		{																						
 			bankName:"龙江银行",
-			bankCode:"DAQINGB",
+			bankCode:"BOLJ",
 			patterns:[
 				{
 					reg:/^(621037|621097|621588|622977)\d{13}$/g,
@@ -1283,7 +1283,7 @@
 		},
 		{																						
 			bankName:"上海农商银行",
-			bankCode:"SHRCB",
+			bankCode:"SRCB",
 			patterns:[
 				{
 					reg:/^(622478|940013|621495)\d{10}$/g,
@@ -1301,7 +1301,7 @@
 		},
 		{		
 			bankName:"浙江泰隆商业银行",
-			bankCode:"ZJQL",
+			bankCode:"ZJTLCB",
 			patterns:[
 				{
 					reg:/^(622717)\d{10}$/g,
@@ -1315,7 +1315,7 @@
 		},
 		{																							
 			bankName:"内蒙古银行",
-			bankCode:"H3CB",
+			bankCode:"BOIMC",
 			patterns:[
 				{
 					reg:/^(622147|621633)\d{13}$/g,
@@ -1329,7 +1329,7 @@
 		},
 		{		
 			bankName:"广西北部湾银行",
-			bankCode:"BGB",
+			bankCode:"BOBBW",
 			patterns:[
 				{
 					reg:/^(623001)\d{10}$/g,
@@ -1343,7 +1343,7 @@
 		},
 		{		
 			bankName:"桂林银行",
-			bankCode:"GLBANK",
+			bankCode:"BOGL",
 			patterns:[
 				{
 					reg:/^(621456)\d{11}$/g,
@@ -1415,7 +1415,7 @@
 		},
 		{			
 			bankName:"天津农村商业银行",
-			bankCode:"TRCB",
+			bankCode:"TJRCB",
 			patterns:[
 				{
 					reg:/^(622531|622329)\d{13}$/g,
@@ -1429,7 +1429,7 @@
 		},
 		{			
 			bankName:"江苏省农村信用社联合社",
-			bankCode:"JSRCU",
+			bankCode:"JSNX",
 			patterns:[
 				{
 					reg:/^(621578|623066|622452|622324)\d{13}$/g,
@@ -1467,7 +1467,7 @@
 		},
 		{				
 			bankName:"商丘市商业银行",
-			bankCode:"SCBBANK",
+			bankCode:"BOSQ",
 			patterns:[
 				{
 					reg:/^(621748)\d{13}$/g,
@@ -1481,7 +1481,7 @@
 		},
 		{				
 			bankName:"华融湘江银行",
-			bankCode:"HRXJB",
+			bankCode:"BOXJ",
 			patterns:[
 				{
 					reg:/^(621366|621388)\d{13}$/g,
@@ -1495,7 +1495,7 @@
 		},
 		{			
 			bankName:"衡水市商业银行",
-			bankCode:"HSBK",
+			bankCode:"BOHS",
 			patterns:[
 				{
 					reg:/^(621239|623068)\d{13}$/g,
@@ -1515,7 +1515,7 @@
 		},
 		{			
 			bankName:"湖南省农村信用社联合社",
-			bankCode:"HNRCC",
+			bankCode:"HUNNX",
 			patterns:[
 				{
 					reg:/^(622169|621519|621539|623090)\d{13}$/g,
@@ -1559,7 +1559,7 @@
 		},
 		{				
 			bankName:"上饶银行",
-			bankCode:"SRBANK",
+			bankCode:"BOSR",
 			patterns:[
 				{
 					reg:/^(621416)\d{10}$/g,
@@ -1573,7 +1573,7 @@
 		},
 		{				
 			bankName:"德州银行",
-			bankCode:"DZBANK",
+			bankCode:"DZB",
 			patterns:[
 				{
 					reg:/^(622937)\d{13}$/g,
@@ -1597,7 +1597,7 @@
 		},
 		{				
 			bankName:"云南省农村信用社",
-			bankCode:"YNRCC",
+			bankCode:"YNNX",
 			patterns:[
 				{
 					reg:/^(622469|628307)\d{10}$/g,
@@ -1607,7 +1607,7 @@
 		},
 		{				
 			bankName:"柳州银行",
-			bankCode:"LZCCB",
+			bankCode:"BOLZ",
 			patterns:[
 				{
 					reg:/^(622292|622291|621412)\d{12}$/g,
@@ -1625,7 +1625,7 @@
 		},
 		{				
 			bankName:"威海市商业银行",
-			bankCode:"WHSYBANK",
+			bankCode:"WHCCB",
 			patterns:[
 				{
 					reg:/^(623102)\d{10}$/g,
@@ -1639,7 +1639,7 @@
 		},
 		{				
 			bankName:"湖州银行",
-			bankCode:"HZBANK",
+			bankCode:"BOHZ",
 			patterns:[
 				{
 					reg:/^(628306)\d{10}$/g,
@@ -1649,7 +1649,7 @@
 		},
 		{				
 			bankName:"潍坊银行",
-			bankCode:"BANKWF",
+			bankCode:"WFCCB",
 			patterns:[
 				{
 					reg:/^(622391|940072)\d{10}$/g,
@@ -1663,7 +1663,7 @@
 		},
 		{				
 			bankName:"赣州银行",
-			bankCode:"GZB",
+			bankCode:"BOGZ",
 			patterns:[
 				{
 					reg:/^(622967|940073)\d{13}$/g,
@@ -1677,7 +1677,7 @@
 		},
 		{					
 			bankName:"日照银行",
-			bankCode:"RZGWYBANK",
+			bankCode:"RZB",
 			patterns:[
 				{
 					reg:/^(628257)\d{10}$/g,
@@ -1687,7 +1687,7 @@
 		},
 		{				
 			bankName:"南昌银行",
-			bankCode:"NCB",
+			bankCode:"BONC",
 			patterns:[
 				{
 					reg:/^(621269|622275)\d{10}$/g,
@@ -1705,7 +1705,7 @@
 		},
 		{					
 			bankName:"贵阳银行",
-			bankCode:"GYCB",
+			bankCode:"BOGY",
 			patterns:[
 				{
 					reg:/^(622133|621735)\d{13}$/g,
@@ -1723,7 +1723,7 @@
 		},
 		{				
 			bankName:"锦州银行",
-			bankCode:"BOJZ",
+			bankCode:"JZB",
 			patterns:[
 				{
 					reg:/^(622990|940003)\d{11}$/g,
@@ -1737,7 +1737,7 @@
 		},
 		{					
 			bankName:"齐商银行",
-			bankCode:"QSBANK",
+			bankCode:"QSB",
 			patterns:[
 				{
 					reg:/^(622311|940057)\d{11}$/g,
@@ -1751,7 +1751,7 @@
 		},
 		{				
 			bankName:"珠海华润银行",
-			bankCode:"RBOZ",
+			bankCode:"ZHHRCB",
 			patterns:[
 				{
 					reg:/^(622363|940048)\d{13}$/g,
@@ -1765,7 +1765,7 @@
 		},
 		{				
 			bankName:"葫芦岛市商业银行",
-			bankCode:"HLDCCB",
+			bankCode:"BOHLD",
 			patterns:[
 				{
 					reg:/^(622398|940054)\d{10}$/g,
@@ -1789,7 +1789,7 @@
 		},
 		{					
 			bankName:"杭州商业银行",
-			bankCode:"HZCB",
+			bankCode:"HZB",
 			patterns:[
 				{
 					reg:/^(603367|622878)\d{12}$/g,
@@ -1803,7 +1803,7 @@
 		},
 		{					
 			bankName:"苏州市商业银行",
-			bankCode:"JSBANK",
+			bankCode:"BOSZ",
 			patterns:[
 				{
 					reg:/^(603506)\d{13}$/g,
@@ -1823,7 +1823,7 @@
 		},
 		{					
 			bankName:"洛阳银行",
-			bankCode:"LYB",
+			bankCode:"BOLY",
 			patterns:[
 				{
 					reg:/^(622420|940041)\d{11}$/g,
@@ -1833,7 +1833,7 @@
 		},
 		{					
 			bankName:"焦作市商业银行",
-			bankCode:"JZCBANK",
+			bankCode:"JZCCB",
 			patterns:[
 				{
 					reg:/^(622338)\d{13}$/g,
@@ -1857,7 +1857,7 @@
 		},
 		{						
 			bankName:"法国兴业银行",
-			bankCode:"FGXYBANK",
+			bankCode:"CIB",
 			patterns:[
 				{
 					reg:/^(621245)\d{10}$/g,
@@ -1867,7 +1867,7 @@
 		},
 		{					
 			bankName:"大华银行",
-			bankCode:"DYBANK",
+			bankCode:"UOBANK",
 			patterns:[
 				{
 					reg:/^(621328)\d{13}$/g,
@@ -1877,7 +1877,7 @@
 		},
 		{					
 			bankName:"企业银行",
-			bankCode:"DIYEBANK",
+			bankCode:"IBK",
 			patterns:[
 				{
 					reg:/^(621651)\d{13}$/g,
@@ -1887,7 +1887,7 @@
 		},
 		{					
 			bankName:"华侨银行",
-			bankCode:"HQBANK",
+			bankCode:"OCBC",
 			patterns:[
 				{
 					reg:/^(621077)\d{10}$/g,
@@ -1897,7 +1897,7 @@
 		},
 		{					
 			bankName:"恒生银行",
-			bankCode:"HSB",
+			bankCode:"HSBANK",
 			patterns:[
 				{
 					reg:/^(622409|621441)\d{13}$/g,
@@ -1953,7 +1953,7 @@
 		},
 		{					
 			bankName:"BC卡公司",
-			bankCode:"BCCC",
+			bankCode:"BCCARD",
 			patterns:[
 				{
 					reg:/^(620011|620027|620031|620039|620103|620106|620120|620123|620125|620220|620278|620812|621006|621011|621012|621020|621023|621025|621027|621031|620132|621039|621078|621220|621003)\d{10}$/g,
@@ -1967,7 +1967,7 @@
 		},
 		{					
 			bankName:"集友银行",
-			bankCode:"CYB",
+			bankCode:"CYBANK",
 			patterns:[
 				{
 					reg:/^(622355|623042)\d{10}$/g,
@@ -1989,7 +1989,7 @@
 		},	
 		{					
 			bankName:"大丰银行",
-			bankCode:"TFB",
+			bankCode:"TFBANK",
 			patterns:[
 				{
 					reg:/^(622547|622548|622546)\d{13}$/g,
